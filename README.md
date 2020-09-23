@@ -1,68 +1,59 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React-todo-app
 
-## Available Scripts
+[![Netlify Status](https://api.netlify.com/api/v1/badges/350efae4-c313-4bbd-a5a0-6627e5a04c93/deploy-status)](https://app.netlify.com/sites/reat-todo-app/deploys)
 
-In the project directory, you can run:
+## Live Code - [Preview](https://reat-todo-app.netlify.app/)
+<!-- ctrl+shift+v : preview -->
+![Project Image](img/day-54.gif)
 
-### `npm start`
+> This website was built to practice my react skills
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Table of Contents
+You're sections headers will be used to reference location of destination.
 
-### `npm test`
+- [Description](#description)
+- [How To Use](#how-to-use)
+- [Author Info](#author-info)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## Live Code - [Preview](https://reat-todo-app.netlify.app/)
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Description
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+This was a simple react app that I build by the help of Tech Tiffin. 
+You can add new items to the todo list and you can also delete it from the list. I enjoyed coding it and I learned a lot about using event handlers in React and how to manipute the state of the class component.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### Technologies
 
-### `npm run eject`
+- HTML
+- CSS
+- JAVASCRIPT
+- React JS
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+[Back To The Top](#React-todo-app)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### Installation
+```html
+    Use a command Prompt and type : npm install
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## How To Use
+```html
+    Use a command Prompt and type : npm start
+```
+<br>
 
-## Learn More
+![todo preview](img/preview.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Author Info
 
-### Code Splitting
+- Twitter - [@TracyCss](https://twitter.com/TracyCss)
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+[Back To The Top](#React-todo-app)
