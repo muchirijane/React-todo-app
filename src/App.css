@@ -1,0 +1,69 @@
+.App {
+    background: #e0fbfc;
+    min-height: 100vh;
+    margin: 0 auto;
+    
+    padding-top: 50px;
+    font-size: 18px;
+}
+
+h1{
+    color: #3d5a80;
+    margin-bottom: 50px;
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+    font-size: 1.6rem;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+.btnStyle {
+    padding: 10px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: #293241;
+    border: none;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+    box-shadow: 0 3px 20px rgba(0, 0, 0, 0.2);
+}
+
+.list{
+    margin-top: 30px;
+    padding: 0;
+}
+
+.listItem {
+    text-decoration: none;
+    list-style: none;
+    color: #293241;
+    padding: 10px 0;
+    margin-bottom: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.btnDelete {
+    margin-left: 20px;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color: #f5cac3;
+    border: none;
+    font-size: 14px;
+    color: #293241;
+    cursor: pointer;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* #f1e1c2, #fcbc98 */
